@@ -1,0 +1,22 @@
+{
+  "base_price": 7450,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Statewide restaurant dataset covering all active listings across Connecticut. Filtered by the Restaurants category group, this state-level export provides the broadest geographic coverage for market analysis. Includes business profiles, ratings, reviews, competitive rankings, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Connecticut, US",
+  "export_job_id": "ea4cadbd-0f4d-403e-87af-60776243af57",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 472974,
+  "location_name": "Connecticut",
+  "location_type": "state",
+  "repo_name": "all-restaurants-in-connecticut-us-sample-472974",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/472974/beamstation_472974_restaurants-us-ct_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 953,
+  "sample_sha256": "e416df43e5c35c81c6746aa5d463dbbf3ecec405141217dde14e4913b36196ba",
+  "sample_size_bytes": 3201935,
+  "total_records": 9530,
+  "updated_at": "2026-04-07T14:15:11.028959+00:00"
+}

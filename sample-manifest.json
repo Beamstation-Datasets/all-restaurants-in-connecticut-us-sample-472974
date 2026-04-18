@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ea4cadbd-0f4d-403e-87af-60776243af57",
+  "export_job_id": "61712ca1-055b-49bf-89a7-395a14fc0e81",
   "id_short": 472974,
-  "published_at": "2026-04-12T19:17:14Z",
+  "published_at": "2026-04-18T07:20:50Z",
   "repo_name": "all-restaurants-in-connecticut-us-sample-472974",
   "sample_asset_name": "beamstation_472974_restaurants-us-ct_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/472974/beamstation_472974_restaurants-us-ct_SAMPLE_DIST.csv",
-  "sample_records": 953,
-  "sample_sha256": "e416df43e5c35c81c6746aa5d463dbbf3ecec405141217dde14e4913b36196ba",
-  "sample_size_bytes": 3201935,
-  "total_records": 9530
+  "sample_records": 936,
+  "sample_sha256": "cd0a9d5f4190048b06ac3c6b579faa06b2878914286a42f02643de622ffd87e3",
+  "sample_size_bytes": 3105882,
+  "total_records": 9362
 }

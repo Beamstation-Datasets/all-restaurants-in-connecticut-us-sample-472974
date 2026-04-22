@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Statewide restaurant dataset covering all active listings across Connecticut. Filtered by the Restaurants category group, this state-level export provides the broadest geographic coverage for market analysis. Includes business profiles, ratings, reviews, competitive rankings, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Connecticut, US",
-  "export_job_id": "61712ca1-055b-49bf-89a7-395a14fc0e81",
+  "export_job_id": "a0705752-eb80-4f34-bda5-f66895e9dad1",
   "github_org": "Beamstation-Datasets",
   "id_short": 472974,
   "location_name": "Connecticut",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-connecticut-us-sample-472974",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/472974/beamstation_472974_restaurants-us-ct_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 936,
-  "sample_sha256": "cd0a9d5f4190048b06ac3c6b579faa06b2878914286a42f02643de622ffd87e3",
-  "sample_size_bytes": 3105882,
-  "total_records": 9362,
-  "updated_at": "2026-04-14T21:18:59.108748+00:00"
+  "sample_records": 746,
+  "sample_sha256": "db248664918ead3d0cd83cde8b3d40c48d9679f6c61decc7d4f168b65eafa8bb",
+  "sample_size_bytes": 2468663,
+  "total_records": 7460,
+  "updated_at": "2026-04-21T23:46:33.933196+00:00"
 }

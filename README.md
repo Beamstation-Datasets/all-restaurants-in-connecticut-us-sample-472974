@@ -1,6 +1,6 @@
 # All Restaurants in Connecticut, US
 
-> Free BeamStation sample export with 936 rows and masked direct-contact fields.
+> Free BeamStation sample export with 746 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `472974` |
 | Location | Connecticut |
 | Category | Restaurants |
-| Full dataset size | 9,362 records |
-| Free sample size | 936 records (10.0%) |
-| Last export | 2026-04-14T21:18:59.108748+00:00 |
+| Full dataset size | 7,460 records |
+| Free sample size | 746 records (10.0%) |
+| Last export | 2026-04-21T23:46:33.933196+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-connecticut-us-sample-472974/releases/download/sample-latest/beamstation_472974_restaurants-us-ct_SAMPLE_DIST.csv) |
 
 ## What is in this sample
